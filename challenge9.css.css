@@ -148,7 +148,7 @@ body {
     }
 
     .navbar ul {
-        flex-direction: row; /* منوها به صورت عمودی */
+        flex-direction: column; /* منوها به صورت عمودی */
         gap: 10px;
     }
 
